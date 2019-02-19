@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My first app for test</string>
+    <string name="action_settings">New window</string>
+    <string name="hello_new">Hello 1. it\'s me new window</string>
+    <string name="testbutton">Go to new Window</string>
+    <string name="exit">Exit</string>
+</resources>
